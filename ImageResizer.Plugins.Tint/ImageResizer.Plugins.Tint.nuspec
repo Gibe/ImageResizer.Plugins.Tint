@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>ImageResizer.Plugins.Tint</id>
+		<version>$version$</version>
+		<authors>Gibe Digital Ltd</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>
+			ImageResizer v3 Plugin to tint images
+		</description>
+		<dependencies>
+			<dependency id="ImageResizer" version="3.4.3" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="bin\Release\ImageResizer.Plugins.Tint.dll" target="lib" />
+	</files>
+</package>
