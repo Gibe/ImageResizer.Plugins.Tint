@@ -173,3 +173,4 @@ packages/
 
 # Crystal reports
 aspnet_client/
+.vs/
